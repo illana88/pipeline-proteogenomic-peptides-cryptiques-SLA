@@ -30,7 +30,7 @@ bash pgp-a.sh 0 > pgp-a-0.txt 2> pgp-a-0.error.txt
 ```
 
 ### Option 1  
-Dans cette option, il y avoir plusieurs points à revoir par rapport au pipeline original :  
+Dans cette option, il va y avoir plusieurs points à revoir par rapport au pipeline original :  
 - Installation des librairies suivantes (lancer R dans l'environnement conda) : BiocManager, RCurl, GenomeInfoDB,
 et GenomicRanges à l'aide des commandes suivantes :
 ```R  
